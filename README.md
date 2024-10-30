@@ -17,5 +17,5 @@ is stored on the block chain it cannot be altered or changed in any way as it ha
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run main.py
    ```
